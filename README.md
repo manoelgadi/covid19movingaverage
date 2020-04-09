@@ -1,4 +1,6 @@
 
+Video explaining the Project: https://www.youtube.com/watch?v=MRyAHZa0VXA
+
 Sharing my Covid 19 analysis in Python here in github, please help me answering the following questions:
 
 Question 1 - how could we estimate the real number of cases? what else could we do? 
