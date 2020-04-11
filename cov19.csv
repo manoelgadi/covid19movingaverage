@@ -14,7 +14,8 @@ Argentina,2020-04-04,1586.0,43.0
 Argentina,2020-04-05,1704.0,46.0
 Argentina,2020-04-06,1782.0,54.0
 Argentina,2020-04-07,1894.0,61.0
-Argentina,2020-04-08,1314.0,66.0
+Argentina,2020-04-08,1989.0,66.0
+Argentina,2020-04-09,2088.0,79.0
 Australia,2020-03-22,1354.0,7.0
 Australia,2020-03-23,1716.0,7.0
 Australia,2020-03-24,2146.0,8.0
@@ -33,9 +34,12 @@ Australia,2020-04-05,5693.0,35.0
 Australia,2020-04-06,5800.0,41.0
 Australia,2020-04-07,5919.0,48.0
 Australia,2020-04-08,6024.0,50.0
+Australia,2020-04-09,6109.0,51.0
+Australia,2020-04-10,6215.0,54.0
 Bolivia,2020-03-30,94.0,6.0
 Bolivia,2020-04-06,145.0,9.0
 Bolivia,2020-04-08,244.0,8.0
+Bolivia,2020-04-09,178.0,9.0
 Brazil,2020-03-19,621.0,6.0
 Brazil,2020-03-20,904.0,11.0
 Brazil,2020-03-21,1128.0,18.0
@@ -57,6 +61,7 @@ Brazil,2020-04-05,11130.0,486.0
 Brazil,2020-04-06,12056.0,553.0
 Brazil,2020-04-07,13717.0,667.0
 Brazil,2020-04-08,15927.0,800.0
+Brazil,2020-04-09,17857.0,941.0
 Canada,2020-03-20,958.0,12.0
 Canada,2020-03-21,1289.0,18.0
 Canada,2020-03-22,1417.0,20.0
@@ -77,6 +82,8 @@ Canada,2020-04-05,15483.0,280.0
 Canada,2020-04-06,16640.0,323.0
 Canada,2020-04-07,17870.0,380.0
 Canada,2020-04-08,19261.0,435.0
+Canada,2020-04-09,20735.0,509.0
+Canada,2020-04-10,21213.0,531.0
 China,2020-01-22,458.0,9.0
 China,2020-01-23,609.0,17.0
 China,2020-01-24,882.0,26.0
@@ -155,19 +162,25 @@ China,2020-04-05,76625.0,3277.0
 China,2020-04-06,77035.0,3297.0
 China,2020-04-07,76108.0,3281.0
 China,2020-04-08,75449.0,3274.0
+China,2020-04-09,76748.0,3287.0
+China,2020-04-10,75590.0,3273.0
 Colombia,2020-03-23,317.0,6.0
 Colombia,2020-03-24,426.0,7.0
 Colombia,2020-03-26,333.0,7.0
-Colombia,2020-03-27,295.0,10.0
-Colombia,2020-03-28,605.0,15.0
+Colombia,2020-03-27,295.0,11.0
+Colombia,2020-03-28,605.0,16.0
 Colombia,2020-03-29,701.0,8.0
-Colombia,2020-03-30,815.0,26.0
+Colombia,2020-03-30,815.0,27.0
 Colombia,2020-03-31,969.0,7.0
-Colombia,2020-04-01,1081.0,14.0
-Colombia,2020-04-02,1007.0,16.0
-Colombia,2020-04-03,1322.0,32.0
-Colombia,2020-04-04,1302.0,25.0
-Colombia,2020-04-05,1408.0,29.0
+Colombia,2020-04-01,1081.0,15.0
+Colombia,2020-04-02,1006.0,17.0
+Colombia,2020-04-03,1322.0,33.0
+Colombia,2020-04-04,1302.0,26.0
+Colombia,2020-04-05,1408.0,30.0
+Colombia,2020-04-06,1557.0,29.0
+Colombia,2020-04-07,1879.0,18.0
+Colombia,2020-04-08,2281.0,32.0
+Colombia,2020-04-09,2547.0,25.0
 France,2020-03-05,420.0,7.0
 France,2020-03-06,610.0,7.0
 France,2020-03-07,946.0,14.0
@@ -203,6 +216,7 @@ France,2020-04-05,0.0,5889.0
 France,2020-04-06,0.0,6494.0
 France,2020-04-07,0.0,7091.0
 France,2020-04-08,0.0,7632.0
+France,2020-04-09,0.0,8044.0
 Germany,2020-03-17,9348.0,24.0
 Germany,2020-03-18,12223.0,36.0
 Germany,2020-03-19,15240.0,43.0
@@ -225,6 +239,7 @@ Germany,2020-04-05,99513.0,1521.0
 Germany,2020-04-06,101122.0,1683.0
 Germany,2020-04-07,103483.0,1823.0
 Germany,2020-04-08,110355.0,2151.0
+Germany,2020-04-10,118215.0,2579.0
 India,2020-03-26,509.0,6.0
 India,2020-03-27,739.0,6.0
 India,2020-03-28,659.0,6.0
@@ -239,6 +254,8 @@ India,2020-04-05,2727.0,35.0
 India,2020-04-06,3952.0,74.0
 India,2020-04-07,4341.0,85.0
 India,2020-04-08,4352.0,92.0
+India,2020-04-09,5746.0,133.0
+India,2020-04-10,6242.0,151.0
 Italy,2020-02-24,229.0,7.0
 Italy,2020-02-25,322.0,10.0
 Italy,2020-02-26,400.0,12.0
@@ -284,6 +301,8 @@ Italy,2020-04-05,128948.0,15887.0
 Italy,2020-04-06,132547.0,16523.0
 Italy,2020-04-07,135586.0,17127.0
 Italy,2020-04-08,139422.0,17669.0
+Italy,2020-04-09,143626.0,18279.0
+Italy,2020-04-10,147577.0,18849.0
 Malaysia,2020-03-03,36.0,7.0
 Malaysia,2020-03-14,238.0,41.0
 Malaysia,2020-03-17,786.0,127.0
@@ -309,6 +328,8 @@ Malaysia,2020-04-05,3662.0,179.0
 Malaysia,2020-04-06,3793.0,131.0
 Malaysia,2020-04-07,3963.0,170.0
 Malaysia,2020-04-08,4119.0,156.0
+Malaysia,2020-04-09,4228.0,109.0
+Malaysia,2020-04-10,4346.0,118.0
 Mexico,2020-03-25,475.0,6.0
 Mexico,2020-03-26,585.0,8.0
 Mexico,2020-03-27,717.0,12.0
@@ -324,6 +345,7 @@ Mexico,2020-04-05,2143.0,94.0
 Mexico,2020-04-06,2439.0,125.0
 Mexico,2020-04-07,2785.0,141.0
 Mexico,2020-04-08,3181.0,174.0
+Mexico,2020-04-09,3441.0,194.0
 Portugal,2020-03-20,1008.0,6.0
 Portugal,2020-03-21,1271.0,12.0
 Portugal,2020-03-22,1590.0,14.0
@@ -344,6 +366,8 @@ Portugal,2020-04-05,11278.0,295.0
 Portugal,2020-04-06,11730.0,311.0
 Portugal,2020-04-07,12442.0,345.0
 Portugal,2020-04-08,13141.0,380.0
+Portugal,2020-04-09,13956.0,409.0
+Portugal,2020-04-10,15472.0,435.0
 South Korea,2020-02-24,809.0,7.0
 South Korea,2020-02-25,946.0,10.0
 South Korea,2020-02-29,3120.0,6.0
@@ -377,6 +401,7 @@ South Korea,2020-04-05,9602.0,142.0
 South Korea,2020-04-06,9669.0,148.0
 South Korea,2020-04-07,9678.0,121.0
 South Korea,2020-04-08,8249.0,165.0
+South Korea,2020-04-09,2730.0,158.0
 Spain,2020-03-07,430.0,8.0
 Spain,2020-03-08,589.0,17.0
 Spain,2020-03-09,999.0,17.0
@@ -410,6 +435,8 @@ Spain,2020-04-05,130759.0,12418.0
 Spain,2020-04-06,135032.0,13055.0
 Spain,2020-04-07,140510.0,13798.0
 Spain,2020-04-08,146690.0,14555.0
+Spain,2020-04-09,152446.0,15238.0
+Spain,2020-04-10,157022.0,15843.0
 Sweden,2020-03-27,2852.0,83.0
 Sweden,2020-03-28,3217.0,91.0
 Sweden,2020-03-29,3463.0,99.0
@@ -423,6 +450,8 @@ Sweden,2020-04-05,6317.0,356.0
 Sweden,2020-04-06,6664.0,427.0
 Sweden,2020-04-07,7123.0,527.0
 Sweden,2020-04-08,7783.0,619.0
+Sweden,2020-04-09,8466.0,715.0
+Sweden,2020-04-10,8973.0,788.0
 Switzerland,2020-03-13,1130.0,6.0
 Switzerland,2020-03-14,1282.0,11.0
 Switzerland,2020-03-15,1393.0,16.0
@@ -448,8 +477,10 @@ Switzerland,2020-04-03,20482.0,631.0
 Switzerland,2020-04-04,19749.0,656.0
 Switzerland,2020-04-05,20679.0,730.0
 Switzerland,2020-04-06,22165.0,802.0
-Switzerland,2020-04-07,22841.0,826.0
-Switzerland,2020-04-08,13892.0,541.0
+Switzerland,2020-04-07,22841.0,859.0
+Switzerland,2020-04-08,23619.0,921.0
+Switzerland,2020-04-09,23723.0,942.0
+Switzerland,2020-04-10,13641.0,574.0
 United Kingdom,2020-03-10,382.0,6.0
 United Kingdom,2020-03-11,460.0,6.0
 United Kingdom,2020-03-12,596.0,8.0
@@ -479,40 +510,46 @@ United Kingdom,2020-04-04,41903.0,4367.0
 United Kingdom,2020-04-05,47806.0,4943.0
 United Kingdom,2020-04-06,51608.0,5382.0
 United Kingdom,2020-04-07,55242.0,6236.0
-United Kingdom,2020-04-08,9977.0,689.0
-United States of America,2020-03-04,118.0,10.0
-United States of America,2020-03-05,176.0,11.0
-United States of America,2020-03-06,223.0,14.0
-United States of America,2020-03-07,341.0,16.0
-United States of America,2020-03-08,417.0,18.0
-United States of America,2020-03-09,584.0,22.0
-United States of America,2020-03-10,778.0,24.0
-United States of America,2020-03-11,1054.0,27.0
-United States of America,2020-03-12,1315.0,36.0
-United States of America,2020-03-13,1922.0,39.0
-United States of America,2020-03-14,2450.0,49.0
-United States of America,2020-03-15,3173.0,60.0
-United States of America,2020-03-16,4010.0,71.0
-United States of America,2020-03-17,5710.0,90.0
-United States of America,2020-03-18,7715.0,112.0
-United States of America,2020-03-19,11699.0,160.0
-United States of America,2020-03-20,17002.0,219.0
-United States of America,2020-03-21,23155.0,272.0
-United States of America,2020-03-22,31823.0,397.0
-United States of America,2020-03-23,42075.0,468.0
-United States of America,2020-03-24,51866.0,671.0
-United States of America,2020-03-25,63823.0,896.0
-United States of America,2020-03-26,80609.0,1160.0
-United States of America,2020-03-27,99264.0,1526.0
-United States of America,2020-03-28,118055.0,1961.0
-United States of America,2020-03-29,138853.0,2422.0
-United States of America,2020-03-30,160266.0,2932.0
-United States of America,2020-03-31,184343.0,3736.0
-United States of America,2020-04-01,210417.0,4686.0
-United States of America,2020-04-02,238660.0,5768.0
-United States of America,2020-04-03,271480.0,6942.0
-United States of America,2020-04-04,305162.0,8291.0
-United States of America,2020-04-05,331671.0,9472.0
-United States of America,2020-04-06,360654.0,10653.0
-United States of America,2020-04-07,391849.0,12591.0
-United States of America,2020-04-08,422363.0,14464.0
+United Kingdom,2020-04-08,60733.0,7172.0
+United Kingdom,2020-04-09,65077.0,8063.0
+United Kingdom,2020-04-10,11455.0,902.0
+United States of America,2020-03-01,31.0,8.0
+United States of America,2020-03-02,35.0,11.0
+United States of America,2020-03-03,60.0,14.0
+United States of America,2020-03-04,157.0,16.0
+United States of America,2020-03-05,204.0,20.0
+United States of America,2020-03-06,296.0,26.0
+United States of America,2020-03-07,421.0,27.0
+United States of America,2020-03-08,562.0,31.0
+United States of America,2020-03-09,793.0,35.0
+United States of America,2020-03-10,1005.0,37.0
+United States of America,2020-03-11,1260.0,43.0
+United States of America,2020-03-12,1519.0,51.0
+United States of America,2020-03-13,2164.0,55.0
+United States of America,2020-03-14,2672.0,63.0
+United States of America,2020-03-15,3452.0,76.0
+United States of America,2020-03-16,4289.0,97.0
+United States of America,2020-03-17,6019.0,119.0
+United States of America,2020-03-18,8083.0,142.0
+United States of America,2020-03-19,12050.0,185.0
+United States of America,2020-03-20,17391.0,247.0
+United States of America,2020-03-21,23628.0,297.0
+United States of America,2020-03-22,32263.0,425.0
+United States of America,2020-03-23,42519.0,506.0
+United States of America,2020-03-24,52473.0,703.0
+United States of America,2020-03-25,64621.0,928.0
+United States of America,2020-03-26,81756.0,1205.0
+United States of America,2020-03-27,100323.0,1570.0
+United States of America,2020-03-28,119088.0,1997.0
+United States of America,2020-03-29,139659.0,2461.0
+United States of America,2020-03-30,160930.0,2976.0
+United States of America,2020-03-31,185496.0,3793.0
+United States of America,2020-04-01,211428.0,4732.0
+United States of America,2020-04-02,239697.0,5819.0
+United States of America,2020-04-03,272526.0,7006.0
+United States of America,2020-04-04,306334.0,8356.0
+United States of America,2020-04-05,332583.0,9528.0
+United States of America,2020-04-06,361494.0,10693.0
+United States of America,2020-04-07,392612.0,12616.0
+United States of America,2020-04-08,423347.0,14516.0
+United States of America,2020-04-09,457095.0,16384.0
